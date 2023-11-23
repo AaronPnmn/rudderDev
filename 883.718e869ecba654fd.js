@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbases=self.webpackChunkbases||[]).push([[883],{1883:(m,_,o)=>{o.r(_),o.d(_,{ColaboradoresModule:()=>M});var l=o(6895),d=o(6090),r=o(7688),E=o(4006),n=o(814),s=o(4650);let M=(()=>{class a{}return a.\u0275fac=function(t){return new(t||a)},a.\u0275mod=s.oAB({type:a}),a.\u0275inj=s.cJS({providers:[n.N],imports:[l.ez,r.q,d.q,E.u5]}),a})()}}]);
